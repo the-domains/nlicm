@@ -4,7 +4,7 @@
         <description><![CDATA[New Life In Christ Ministries]]></description>
         <link>https://thegrid.ai/nlicm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 20:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 20:24:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nlicm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Mon, 25 Apr 2016 20:22:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Our Core Values]]></title>
+            <description><![CDATA[<article><h1>Our Core Values</h1><p>Right Value on PeopleWe believe that every person is valuable in the sight of God and that no one individual is any more important than another. To this end we seek to understand each person as an individual whom God loves and has made a part of His family.</p></article>]]></description>
+            <link>https://thegrid.ai/nlicm/our-core-values/index.html</link>
+            <guid isPermaLink="false">35ce673d-abd0-49fa-8cdc-a7a7850b446c</guid>
+            <pubDate>Mon, 25 Apr 2016 20:23:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Church History]]></title>
             <description><![CDATA[<p>The mission of New Life in Christ Ministries (NLICM) is to practically teach the Word of God with simplicity and understanding for the purpose of eternally changing lives and impacting the world.</p>]]></description>
             <link>https://thegrid.ai/nlicm/church-history/index.html</link>
             <guid isPermaLink="false">40246a3a-4a27-4470-af32-1bc3f3f33169</guid>
             <pubDate>Mon, 25 Apr 2016 20:23:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Core Values]]></title>
-            <description><![CDATA[<article><h1>Our Core Values</h1><p>Right Value on PeopleWe believe that every person is valuable in the sight of God and that no one individual is any more important than another. To this end we seek to understand each person as an individual whom God loves and has made a part of His family.</p></article>]]></description>
-            <link>https://thegrid.ai/nlicm/our-core-values/index.html</link>
-            <guid isPermaLink="false">35ce673d-abd0-49fa-8cdc-a7a7850b446c</guid>
-            <pubDate>Mon, 25 Apr 2016 20:16:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
