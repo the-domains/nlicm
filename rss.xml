@@ -4,21 +4,21 @@
         <description><![CDATA[New Life In Christ Ministries]]></description>
         <link>https://thegrid.ai/nlicm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 20:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 20:17:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nlicm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d6bd1ba9355ae5adaa2d5ded3819baf2e67878f.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/nlicm/welcome-to-nlicm/index.html</link>
+            <guid isPermaLink="false">5ba929a6-2be5-4e87-97b2-ad201a21119a</guid>
+            <pubDate>Mon, 25 Apr 2016 20:17:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Our Core Values]]></title>
-            <description><![CDATA[<article><h1>Our Core Values</h1><p>Right Value on People We believe that every person is valuable in the sight of God and that no one individual is any more important than another. To this end we seek to understand each person as an individual whom God loves and has made a part of His family.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Our Core Values</h1><p>Right Value on PeopleWe believe that every person is valuable in the sight of God and that no one individual is any more important than another. To this end we seek to understand each person as an individual whom God loves and has made a part of His family.</p></article>]]></description>
             <link>https://thegrid.ai/nlicm/our-core-values/index.html</link>
             <guid isPermaLink="false">35ce673d-abd0-49fa-8cdc-a7a7850b446c</guid>
             <pubDate>Mon, 25 Apr 2016 20:16:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to NLICM]]></title>
-            <description><![CDATA[<p>Welcome to New Life in Christ Ministries.</p>]]></description>
-            <link>https://thegrid.ai/nlicm/welcome-to-nlicm/index.html</link>
-            <guid isPermaLink="false">5ba929a6-2be5-4e87-97b2-ad201a21119a</guid>
-            <pubDate>Mon, 25 Apr 2016 18:51:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
