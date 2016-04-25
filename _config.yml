@@ -1,0 +1,28 @@
+name: NLICM
+favicon: null
+layout_spectrum: 0.8003081956412643
+typography_spectrum: 0.4412070761900395
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9232357735745609
+  lightness: 0.012943621259182692
+  saturation: 0.55234769359231
+  rhythmicContrast: 0.6513258521445096
+purpose: []
