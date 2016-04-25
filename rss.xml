@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[NLICM]]></title>
-        <description><![CDATA[NLICM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[New Life In Christ Ministries]]></title>
+        <description><![CDATA[New Life In Christ Ministries]]></description>
+        <link>https://thegrid.ai/nlicm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 18:52:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 20:16:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nlicm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Core Values]]></title>
+            <description><![CDATA[<article><h1>Our Core Values</h1><p>Right Value on People We believe that every person is valuable in the sight of God and that no one individual is any more important than another. To this end we seek to understand each person as an individual whom God loves and has made a part of His family.</p></article>]]></description>
+            <link>https://thegrid.ai/nlicm/our-core-values/index.html</link>
+            <guid isPermaLink="false">35ce673d-abd0-49fa-8cdc-a7a7850b446c</guid>
+            <pubDate>Mon, 25 Apr 2016 20:16:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to NLICM]]></title>
             <description><![CDATA[<p>Welcome to New Life in Christ Ministries.</p>]]></description>
-            <link>undefinedwelcome-to-nlicm/index.html</link>
+            <link>https://thegrid.ai/nlicm/welcome-to-nlicm/index.html</link>
             <guid isPermaLink="false">5ba929a6-2be5-4e87-97b2-ad201a21119a</guid>
             <pubDate>Mon, 25 Apr 2016 18:51:34 GMT</pubDate>
         </item>
