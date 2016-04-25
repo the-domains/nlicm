@@ -4,7 +4,7 @@
         <description><![CDATA[New Life In Christ Ministries]]></description>
         <link>https://thegrid.ai/nlicm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 20:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 20:23:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nlicm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/nlicm/welcome-to-nlicm/index.html</link>
             <guid isPermaLink="false">5ba929a6-2be5-4e87-97b2-ad201a21119a</guid>
             <pubDate>Mon, 25 Apr 2016 20:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Church History]]></title>
+            <description><![CDATA[<p>The mission of New Life in Christ Ministries (NLICM) is to practically teach the Word of God with simplicity and understanding for the purpose of eternally changing lives and impacting the world.</p>]]></description>
+            <link>https://thegrid.ai/nlicm/church-history/index.html</link>
+            <guid isPermaLink="false">40246a3a-4a27-4470-af32-1bc3f3f33169</guid>
+            <pubDate>Mon, 25 Apr 2016 20:23:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our Core Values]]></title>
