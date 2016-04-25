@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Welcome to New Life in Christ Ministries.
-datePublished: '2016-04-25T20:19:53.755Z'
-dateModified: '2016-04-25T20:17:43.269Z'
+datePublished: '2016-04-25T20:22:31.242Z'
+dateModified: '2016-04-25T20:20:15.260Z'
 title: ''
 author:
   - name: ''
