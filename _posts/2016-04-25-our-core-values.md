@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: Right Value on People We believe that every person is valuable in the sight of God and that no one individual is any more important than another. To this end we seek to understand each person as an individual whom God loves and has made a part of His family.
-datePublished: '2016-04-25T20:25:01.148Z'
-dateModified: '2016-04-25T20:23:50.936Z'
+datePublished: '2016-04-29T14:34:20.488Z'
+dateModified: '2016-04-29T14:34:19.968Z'
 title: Our Core Values
 author: []
 sourcePath: _posts/2016-04-25-our-core-values.md
@@ -19,10 +19,10 @@ publisher:
   favicon: null
 starred: false
 url: our-core-values/index.html
-_type: Article
+_type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22c5bdab-6ccb-4198-a6fd-834fe130c716.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a21797f742a485d2461a90a15193ff4aa1a6ed65.png)
 
 # Our Core Values
 
