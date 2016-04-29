@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Welcome to New Life in Christ Ministries.
-datePublished: '2016-04-25T20:22:31.242Z'
-dateModified: '2016-04-25T20:20:15.260Z'
+datePublished: '2016-04-29T14:34:11.714Z'
+dateModified: '2016-04-29T14:34:11.207Z'
 title: ''
 author:
   - name: ''
