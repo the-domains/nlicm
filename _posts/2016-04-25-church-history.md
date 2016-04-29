@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: The mission of New Life in Christ Ministries (NLICM) is to practically teach the Word of God with simplicity and understanding for the purpose of eternally changing lives and impacting the world.
-datePublished: '2016-04-25T20:23:21.224Z'
-dateModified: '2016-04-25T20:23:01.552Z'
+datePublished: '2016-04-29T18:46:29.368Z'
+dateModified: '2016-04-29T16:17:37.528Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-church-history.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: church-history/index.html
-_type: Article
+_type: WebPage
 
 ---
 The mission of New Life in Christ Ministries (NLICM) is to practically teach the Word of God with simplicity and understanding for the purpose of eternally changing lives and impacting the world.
